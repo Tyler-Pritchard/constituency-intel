@@ -1,0 +1,12 @@
+{
+  "district": "WA-22",
+  "population": 149203,
+  "demographics": {
+    "median_age": 36.4,
+    "income": 54500,
+    "education": {
+      "bachelor_or_higher": 32.1
+    }
+  },
+  "top_issues": ["housing", "public transit", "opioids"]
+}
